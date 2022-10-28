@@ -1,13 +1,11 @@
 # Note-Taker
 Description:
 
-This repo features my personal portfolio, which will be added to on an ongoing basis. It is written in HTML and CSS with more functionality to come.
+This repo features allows the user to type, save delete and re-load notes.
 
-It includes links to two projects so far, a Tip Calculator app and a To Do List app, both of which use HTML, CSS and JS. All link are functional and user-friendly.
+Installation: Uses node packages (express and uuid)
 
-Installation: N/A
-
-Usage: N/A
+Usage: Click the add button to draft a new note. The save icon saves a note. Saved notes will appear on the left column. The trash icon deletes a saved note and clicking on a saved notes moves it back into the main viewing area.
 
 Credits: Nathan Alexander
 
@@ -15,10 +13,11 @@ License: Please refer to the license in the repo
 
 Badges: N/A
 
-Features: Functional links, media queries for 768px and 576px, general responsiveness to various screen sizes.
+Features: Backend npm
 
 How to Contribute: N/A
 
 Tests: N/A
 
 Deployment:
+https://note-taker-nathanalexander1.herokuapp.com/notes
