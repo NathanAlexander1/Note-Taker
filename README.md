@@ -19,5 +19,9 @@ How to Contribute: N/A
 
 Tests: N/A
 
+Screenshots:
+![homepage](./screenshots/nathan-screenshot-one.png)
+![notepage](./screenshots/nathan-screenshot-two.png)
+
 Deployment:
 https://note-taker-nathanalexander1.herokuapp.com/notes
